@@ -1,16 +1,16 @@
-In the project directory, you can run:
+# In the project directory, you can run:
 
-npm install
+## npm install
 This will install all the necessary dependencies
 
-npm run dev
+## npm run dev
 This will run your project on the development server
 
-npm test
+## npm test
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-npm run build
+## npm run build
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -19,7 +19,7 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-npm run eject
+### npm run eject
 Note: this is a one-way operation. Once you eject, you can't go back!
 
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
